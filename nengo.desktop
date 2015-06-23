@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=NENGO
+Comment=The Nengo Neural Simulator
+Exec=/home/justin/NENGO/nengo
+Icon=/home/justin/NENGO/icon.png
+Terminal=false
+Type=Application
+Categories=Application;
